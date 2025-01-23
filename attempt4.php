@@ -1,0 +1,3 @@
+<?php
+$pageA="flag";
+?>
